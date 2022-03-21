@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/jrsumner/convoychat">
-  <img align="center" src="ttps://github-readme-stats.vercel.app/api/pin/?username=jrsumner&repo=convoychat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrsumner&theme=cobalt" />
 </a>
