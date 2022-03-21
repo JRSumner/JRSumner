@@ -8,4 +8,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrsumner&theme=cobalt" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrsumner&repo=github-readme-stats)](https://github.com/jrsumner/nc-news-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrsumner&repo=nc-news-frontend)](https://github.com/jrsumner/nc-news-frontend)
